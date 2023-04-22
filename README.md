@@ -7,4 +7,3 @@ Bu repo [patika.dev](https://www.patika.dev) kapsamında verilen React eğitimi 
 2. State
 
 (İçerik yüklendikçe yukarıda bulunan kısım güncellenecektir.)
->>>>>>> React/main
