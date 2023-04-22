@@ -1,11 +1,11 @@
 ># Görev Listem
-##Amaç
+## Amaç
 Kullanıcıdan almış olduğu girdileri dinamik olarak listelemek. Ayrıca bu tutulan girdileri yani görevleri tamamlanma veya tamamlanma'ma durumlarını göre ekrana filtreleme yapılması.
 ##Çalışmaya Ait Ekran Görüntüsü
 
 ![Görev Listem Ekran Görüntüsü](./Asset/gorevListem.png)
 
-##Gereksinimler:
+## Gereksinimler:
 - **NodeJs**
 - **Herhangi bir tarayıcı**
 
