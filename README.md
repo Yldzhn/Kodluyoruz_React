@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+># Kodluyoruz React
+Bu repo [patika.dev](https://www.patika.dev) kapsamında verilen React eğitimi içerisinde gerçekleştirmiş olduğum çalışmalar bulunmaktadır.
+
+---
+***Konu Başlıkları***
+1. Prop
+2. State
+
+(İçerik yüklendikçe yukarıda bulunan kısım güncellenecektir.)
+>>>>>>> React/main
